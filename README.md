@@ -28,6 +28,7 @@ Plusieurs Tiers-Lieux / organismes ont exprimé leur souhait de répliquer / ada
 
 Voici les ressources nécessaires minimales pour répliquer / reproduire /enrichir le corpus.
 
+* \[Wiki\] [Code source du processus Design moi 1 Tiers Lieux !](http://movilab.org/index.php?title=Portail:Dm1TL)
 * \[Hackpad\] [Carnet de bord de l'expérience _Fork The World_](http://frama.link/BiennaleDesign17-ForkTheWorld)
 * \[Google\] [Version initiale des textes de l'expo au format .doc](https://frama.link/BiennaleDesign17-ForkTheWorld-Expo)
 * \[Nexcloud\] [Version des textes de l'expo au format .odt](https://frama.link/BiennaleDesign17-ForkTheWorld-Textes)
